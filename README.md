@@ -15,3 +15,6 @@ Solutions uploaded :-
   3. Pattern 3
   4. Pattern 4
   5. pattern 5
+
+* Number Pattern
+  1. Pattern 1
