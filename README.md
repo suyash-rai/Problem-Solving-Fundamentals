@@ -18,3 +18,4 @@ Solutions uploaded :-
 
 * Number Pattern
   1. Pattern 1
+  2. Pattern 2
