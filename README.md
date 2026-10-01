@@ -8,6 +8,7 @@ Solutions uploaded :-
   3. Reverse of a given number
   4. Palindrome Number
   5. Armstrong number
+  6. Verify a number is Prime or not
 
 * Alphabet Patterns 
   1. Pattern 1
@@ -19,3 +20,4 @@ Solutions uploaded :-
 * Number Pattern
   1. Pattern 1
   2. Pattern 2
+  3. Pattern 3
