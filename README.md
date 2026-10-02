@@ -9,6 +9,7 @@ Solutions uploaded :-
   4. Palindrome Number
   5. Armstrong number
   6. Verify a number is Prime or not
+  7. Find maximum and minimum element of an array
 
 * Alphabet Patterns 
   1. Pattern 1
@@ -21,3 +22,4 @@ Solutions uploaded :-
   1. Pattern 1
   2. Pattern 2
   3. Pattern 3
+  4. Pattern 4
