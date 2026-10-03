@@ -23,3 +23,4 @@ Solutions uploaded :-
   2. Pattern 2
   3. Pattern 3
   4. Pattern 4
+  5. Pattern 5
