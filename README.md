@@ -25,3 +25,4 @@ Solutions uploaded :-
   4. Pattern 4
   5. Pattern 5
   6. Pattern 6
+  7. Pattern 7
