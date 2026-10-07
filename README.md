@@ -26,3 +26,6 @@ Solutions uploaded :-
   5. Pattern 5
   6. Pattern 6
   7. Pattern 7
+
+* Star Pattern
+  1. Pattern 1
